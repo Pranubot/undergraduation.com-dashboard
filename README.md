@@ -56,9 +56,6 @@ Based on undergraduation.com platform data collection:
 
 ### Method 1: Direct File Opening (Easiest)
 1. **Navigate to your project folder** in Windows Explorer:
-   ```
-   C:\Users\yadav\OneDrive\Pictures\Documents\Github Projects\Undergraduation-dashboard
-   ```
 2. **Double-click on `index.html`** - it will open in your default web browser
 
 ### Method 2: Using a Local Web Server (Recommended)
